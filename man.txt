@@ -3,28 +3,13 @@ this is my practice page please ignore if you see it
 hi i am good
 hi
 hi
-=======
-this is my practice page
-hi i am good
-hi how are you
-hi 
->>>>>>> 4th
-hello
+hi
 PAHASP Software Services Private Limited
 Matsund Learning
 this is my practice page
 hi i am good
-<<<<<<< HEAD
-hi how are you!
-hi, How are you
-hello
-PAHASP 
-Matsund Learning
-=======
 hi how are you
 hi
 hello
 PAHASP Software Services Private Limited
 Matsund Learning
-
->>>>>>> 4th
